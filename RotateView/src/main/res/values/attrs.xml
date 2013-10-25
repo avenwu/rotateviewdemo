@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="RotationView">
+        <attr name="rotateBackground" format="reference"/>
+        <attr name="autoRefresh" format="boolean"/>
+    </declare-styleable>
+</resources>

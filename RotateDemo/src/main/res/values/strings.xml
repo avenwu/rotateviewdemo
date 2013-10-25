@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RotateDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">This application is demo for RotateView usage.\nClick the button to start/stop animation of RotateView</string>
+    <string name="reset">Reset</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="no_need_reset">No need to reset.</string>
+    <string name="reset_success">Reset sucess.</string>
+</resources>
